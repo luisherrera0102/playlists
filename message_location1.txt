@@ -1,4 +1,4 @@
 color=#00ffcc;fontsize=22
 Welcome to our Broadway Location
-We appreciate your patients. 
+We appreciate your patience
 Thank you!
