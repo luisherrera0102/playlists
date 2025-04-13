@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "url": "https://yourcdn.com/video1.mp4",
+      "title": "Intro Video"
+    }
+  ],
+  "message": {
+    "style": "color=#FF6600;fontsize=22",
+    "text": [
+      "Welcome to our clinic!",
+      "Please check in at the front desk.",
+      "Enjoy your visit!"
+    ]
+  }
+}
