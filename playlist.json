@@ -1,9 +1,9 @@
 {
   "videos": [
     {
-      "url": "https://yourcdn.com/video1.mp4",
-      "title": "Intro Video"
-    }
+    "title": "NewMexico",
+    "url": "https://video.qmso.com/videos/NewMexico/index.m3u8"
+  }
   ],
   "message": {
     "style": "color=#FF6600;fontsize=22",
